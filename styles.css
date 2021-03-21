@@ -1,7 +1,7 @@
 /*Import the fonts used*/
 @import url('https://fonts.googleapis.com/css?family=Courgette|Open+Sans:400,800&display=swap');
 /*Basic reset*/
-*,
+*, 
 *::before,
 *::after {
     margin: 0;
@@ -19,7 +19,6 @@
     --gradient-color: linear-gradient(to right, var(--yellow-solid), var(--purple-light));
     --gradient-color-alt: linear-gradient(to right, var(--purple-light), var(--yellow-solid));
 }
-
 /* Global styles */
 
 html{
