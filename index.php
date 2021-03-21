@@ -25,7 +25,7 @@
                 <ul class="nav-list">
                     
                     <li class="nav-item">
-                        <a href="index.html" class="nav-link">Home</a>  
+                        <a href="#hero" class="nav-link">Home</a>  
                     </li>
                      <li class="nav-item">
                         <a href="#hotels" class="nav-link">About</a>  
