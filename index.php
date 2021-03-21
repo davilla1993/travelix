@@ -25,7 +25,7 @@
                 <ul class="nav-list">
                     
                     <li class="nav-item">
-                        <a href="#hero" class="nav-link">Home</a>  
+                        <a href="#home" class="nav-link">Home</a>  
                     </li>
                      <li class="nav-item">
                         <a href="#hotels" class="nav-link">About</a>  
@@ -47,7 +47,7 @@
     </header>
     
     <main>
-        <div class="hero">
+        <div class="hero" id="home">
             <div class="container">
                 <div class="main-heading">
                     <h1 class="title">Discover</h1>
